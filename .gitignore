@@ -1,0 +1,6 @@
+SSA-SA-MOWL.csv
+*.db
+.venv/
+__pycache__/
+*.pyc
+.env
