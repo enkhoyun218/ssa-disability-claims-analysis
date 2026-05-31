@@ -1,0 +1,6 @@
+stage,total_cases,stuck_cases,avg_days,target_days,status
+Approval,492,31.0,3.4,5,On Track
+Closed,487,0.0,3.8,1,Over
+Intake,500,0.0,1.4,3,On Track
+Review,500,1.0,2.2,7,On Track
+Verification,499,33.0,5.7,10,On Track

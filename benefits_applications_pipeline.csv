@@ -1,0 +1,6 @@
+stage,total_cases,stuck_cases,avg_days,target_days,status
+Approval,390,67.0,14.1,3,Over
+Benefits Issued,323,0.0,14.2,1,Over
+Document Verification,459,69.0,29.9,7,Over
+Eligibility Review,521,62.0,14.3,5,Over
+Intake,600,79.0,0.0,2,On Track
